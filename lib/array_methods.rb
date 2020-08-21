@@ -15,15 +15,15 @@ end
 
 #4
 def using_first(array)
-
+  array.first
 end
 
 #5
 def using_last(array)
-
+  array.last
 end
 
 #6
 def using_size(array)
-
+  array.size
 end
