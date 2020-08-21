@@ -10,7 +10,7 @@ end
 
 #3
 def using_reverse(array)
-
+  array.reverse
 end
 
 #4
